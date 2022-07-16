@@ -1,3 +1,3 @@
 # ThreeJsDemo
-在线演示地址：
-http://www.yuyaowujin.top/3DProject.html
+演示地址已过期，原博主详细说明地址：
+https://blog.csdn.net/homula123/article/details/101197463
